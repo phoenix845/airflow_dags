@@ -1,5 +1,20 @@
-# Dataset Manifest — email_interactions
+# \# Dataset Manifest
 
-Dataset Name: email_interactions  
-Local CSV Folder: sample_data/  
-Target Table: public.email_interactions
+# 
+
+# Dataset Name: email\_interactions
+
+# 
+
+# Local CSV Path:
+
+# extraction/email\_interactions/sample\_data/email\_interactions.csv
+
+# 
+
+# Target PostgreSQL Table:
+
+# public.email\_interactions
+
+# 
+

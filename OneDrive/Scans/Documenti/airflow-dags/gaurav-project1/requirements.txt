@@ -1,3 +1,0 @@
-pandas
-pyyaml
-psycopg2-binary

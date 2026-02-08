@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+
+# Windows system files
+AppData/
+OneDrive/
+*.log
+
+# OS / cache
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+.env

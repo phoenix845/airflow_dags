@@ -2,6 +2,10 @@ table: public.email_interactions
 primary_key: [thread_id]
 
 columns:
+  - name: thread_id
+    type: text
+    nullable: false
+
   - name: subject
     type: text
     nullable: true
@@ -21,10 +25,6 @@ columns:
   - name: message_text
     type: text
     nullable: true
-
-  - name: thread_id
-    type: text
-    nullable: false
 
   - name: email_type
     type: text
